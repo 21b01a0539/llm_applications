@@ -1,4 +1,0 @@
-langchain
-ipykernel
-langchain_community
-faiss-cpu

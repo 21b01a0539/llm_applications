@@ -1,0 +1,8 @@
+langchain
+ipykernel
+langchain_community
+faiss-cpu
+bs4
+langchain_ollama
+langchain-core
+langgraph
