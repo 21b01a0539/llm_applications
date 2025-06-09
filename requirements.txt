@@ -6,3 +6,6 @@ bs4
 langchain_ollama
 langchain-core
 langgraph
+python-dotenv
+langchain-openai
+langchain-groq
