@@ -10,3 +10,4 @@ python-dotenv
 langchain-openai
 langchain-groq
 arxiv
+langgraph_cli[inmem]
